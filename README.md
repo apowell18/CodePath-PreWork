@@ -27,6 +27,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
+<img src='TrackrDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
